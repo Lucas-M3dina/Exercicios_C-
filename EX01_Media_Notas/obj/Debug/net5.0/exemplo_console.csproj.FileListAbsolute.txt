@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\exemplo_console\bin\Debug\net5.0\exemplo_console.exe
+C:\Users\User\Desktop\exemplo_console\bin\Debug\net5.0\exemplo_console.deps.json
+C:\Users\User\Desktop\exemplo_console\bin\Debug\net5.0\exemplo_console.runtimeconfig.json
+C:\Users\User\Desktop\exemplo_console\bin\Debug\net5.0\exemplo_console.runtimeconfig.dev.json
+C:\Users\User\Desktop\exemplo_console\bin\Debug\net5.0\exemplo_console.dll
+C:\Users\User\Desktop\exemplo_console\bin\Debug\net5.0\ref\exemplo_console.dll
+C:\Users\User\Desktop\exemplo_console\bin\Debug\net5.0\exemplo_console.pdb
+C:\Users\User\Desktop\exemplo_console\obj\Debug\net5.0\exemplo_console.csprojAssemblyReference.cache
+C:\Users\User\Desktop\exemplo_console\obj\Debug\net5.0\exemplo_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\exemplo_console\obj\Debug\net5.0\exemplo_console.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\exemplo_console\obj\Debug\net5.0\exemplo_console.AssemblyInfo.cs
+C:\Users\User\Desktop\exemplo_console\obj\Debug\net5.0\exemplo_console.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\exemplo_console\obj\Debug\net5.0\exemplo_console.dll
+C:\Users\User\Desktop\exemplo_console\obj\Debug\net5.0\ref\exemplo_console.dll
+C:\Users\User\Desktop\exemplo_console\obj\Debug\net5.0\exemplo_console.pdb
+C:\Users\User\Desktop\exemplo_console\obj\Debug\net5.0\exemplo_console.genruntimeconfig.cache
