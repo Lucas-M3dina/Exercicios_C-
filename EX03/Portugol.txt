@@ -1,0 +1,20 @@
+algoritmo "Descobrindo Idade"
+
+VAR
+   INT anoNasc, anoAtual, idade, semana;
+
+INICIO
+
+    ESCREVA ("Digite o ano que você nasceu: ");
+    LEIA (anoNasc);
+
+    ESCREVA ("Digite o ano atual: ");
+	LEIA (anoAtual);
+
+    idade = anoAtual - anoNasc;
+	semana = idade * 52;
+
+	ESCREVA ("Você tem " + idade + " anos");
+	ESCREVA ("Você tem " + semana + " semanas de vida");
+
+FIM DO ALGORITMO

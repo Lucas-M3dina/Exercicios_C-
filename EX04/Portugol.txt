@@ -1,0 +1,18 @@
+algoritmo "Reajuste de salario"
+
+VAR
+   float salario, reajuste;
+
+INICIO
+
+      ESCREVA ("Digite o seu salario atual:");
+      LEIA (salario);
+
+      SE (salario < 500) ENTÃO
+      	reajuste = salario + (salario / 100 * 30);
+      	ESCREVA ("Seu salario com o reajuste é R$" + reajuste);
+
+      SENÃO
+      	ESCREVA ("Você não tem direito a um aumento");
+
+FIM DO ALGORITMO

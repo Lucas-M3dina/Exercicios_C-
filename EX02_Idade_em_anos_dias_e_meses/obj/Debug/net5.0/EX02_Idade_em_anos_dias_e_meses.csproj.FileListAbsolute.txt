@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\bin\Debug\net5.0\EX02_Idade_em_anos_dias_e_meses.exe
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\bin\Debug\net5.0\EX02_Idade_em_anos_dias_e_meses.deps.json
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\bin\Debug\net5.0\EX02_Idade_em_anos_dias_e_meses.runtimeconfig.json
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\bin\Debug\net5.0\EX02_Idade_em_anos_dias_e_meses.runtimeconfig.dev.json
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\bin\Debug\net5.0\EX02_Idade_em_anos_dias_e_meses.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\bin\Debug\net5.0\ref\EX02_Idade_em_anos_dias_e_meses.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\bin\Debug\net5.0\EX02_Idade_em_anos_dias_e_meses.pdb
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\obj\Debug\net5.0\EX02_Idade_em_anos_dias_e_meses.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\obj\Debug\net5.0\EX02_Idade_em_anos_dias_e_meses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\obj\Debug\net5.0\EX02_Idade_em_anos_dias_e_meses.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\obj\Debug\net5.0\EX02_Idade_em_anos_dias_e_meses.AssemblyInfo.cs
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\obj\Debug\net5.0\EX02_Idade_em_anos_dias_e_meses.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\obj\Debug\net5.0\EX02_Idade_em_anos_dias_e_meses.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\obj\Debug\net5.0\ref\EX02_Idade_em_anos_dias_e_meses.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\obj\Debug\net5.0\EX02_Idade_em_anos_dias_e_meses.pdb
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX02_Idade_em_anos_dias_e_meses\obj\Debug\net5.0\EX02_Idade_em_anos_dias_e_meses.genruntimeconfig.cache
