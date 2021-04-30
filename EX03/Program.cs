@@ -9,8 +9,7 @@ namespace EX03
             Console.Write("Digite o ano que você nasceu: ");
             int anoNasc = int.Parse(Console.ReadLine());
 
-            Console.Write("Digite o ano atual: ");
-            int anoAtual = int.Parse(Console.ReadLine());
+            int anoAtual = DateTime.Now.Year;
 
             int idade = anoAtual - anoNasc;
             int semana = idade * 52;
