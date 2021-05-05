@@ -1,7 +1,7 @@
 algoritmo "Idade em  Anos, Dias e Meses"
 
 VAR
-   INT anos, meses, dias, horas, min;
+   INTEIRO anos, meses, dias, horas, min;
 
 INICIO
 
