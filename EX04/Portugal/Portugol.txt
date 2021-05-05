@@ -1,0 +1,20 @@
+programa
+{
+	real salario, reajuste
+	
+	funcao inicio()
+	{
+		escreva("Digite o seu salario atual: ")
+		leia(salario)
+
+		se (salario < 500)
+		{
+			reajuste = salario + (salario / 100 * 30)
+			escreva ("Seu salario com o reajuste é R$", reajuste)
+		}
+		senao
+		{
+			escreva ("Você não tem direito a um aumento")
+		}
+	}
+}

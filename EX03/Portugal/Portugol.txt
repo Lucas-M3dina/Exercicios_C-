@@ -1,0 +1,22 @@
+programa
+{
+	inteiro anoNasc, anoAtual, idade, semana
+	
+	funcao inicio()
+	{
+
+		escreva("Digite o ano que você nasceu: ")
+		leia(anoNasc)
+
+		escreva ("Digite o ano atual: ")
+		leia(anoAtual)
+
+		idade = anoAtual - anoNasc
+		semana = idade * 52
+
+		escreva ("Você tem ",idade," anos \n")
+		escreva ("Você tem ",semana," semanas de vida")
+		
+		
+	}
+}

@@ -1,0 +1,18 @@
+programa
+{
+
+	inteiro anos, meses, dias, horas, min
+	
+	funcao inicio()
+	{
+		escreva("Quantos anos você tem?? \n")
+		leia(anos)
+
+		meses = anos * 12
+	     dias = anos * 365
+	     horas = dias * 24
+	     min = horas * 60
+	     
+	     escreva ("Você tem ", anos, " anos, " , meses, " meses, ", dias, " dias, ", horas, " horas e ", min, " minutos de vida" )
+	}
+}

@@ -15,7 +15,7 @@ namespace exemplo_console
             Console.Write("Digite a segunda nota: ");
             float segundaNota = float.Parse(Console.ReadLine());
 
-            Console.Write("Digite a primeira nota: ");
+            Console.Write("Digite a terceira nota: ");
             float terceiraNota = float.Parse(Console.ReadLine());
 
             float media = (primeiraNota + segundaNota + terceiraNota) / 3;
