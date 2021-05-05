@@ -1,0 +1,20 @@
+programa
+{
+	
+cadeia usuario, senha
+	funcao inicio()
+	{
+		faca
+		{
+			escreva ("Digite seu nome de usuario: ")
+			leia (usuario)
+
+			escreva ("Digite sua senha: ")
+			leia (senha)
+
+			se (senha == usuario)
+			{
+				escreva ("Senha Invalida, sua senha não pode ser igual ao seu usuario \n Preencha os dados novamente \n")
+			}
+		}enquanto (senha == usuario)
+	}

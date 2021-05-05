@@ -1,0 +1,27 @@
+programa
+{
+	cadeia condicao
+	inteiro num
+	
+	funcao inicio()
+	{
+		
+		faca
+		{
+		    escreva ("Digite um numero entre 0 e 10 \n")
+		    leia(num)
+		
+		    se(num < 0 ou num > 10)
+		    {
+		        escreva ("Numero invalido!!!")
+		        escreva ("Deseja tentar novamente?  y/n \n")
+		        leia (condicao)
+		    }
+		    senao
+		    {
+		        escreva ("O numero digitado foi ", num)
+		        condicao = ""
+		    }
+		}enquanto (condicao == "y")
+	}
+}

@@ -6,13 +6,6 @@ namespace EX13
     {
         static void Main(string[] args)
         {
-//             - Faça um programa que leia e valide as seguintes informações:
-// • Nome: diferente de vazio;
-// • Idade: entre 0 e 150;
-// • Salário: maior que zero;
-// • Estado Civil: &#39;s&#39;(solteiro(a)), &#39;c&#39;(casado(a)), &#39;v&#39;(viuvo(a)),
-// &#39;d&#39;(divorciado(a));
-
 
         string validar1 = "";
         string validar2 = "";
