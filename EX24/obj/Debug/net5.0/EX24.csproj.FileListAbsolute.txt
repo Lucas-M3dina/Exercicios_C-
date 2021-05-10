@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\bin\Debug\net5.0\EX24.exe
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\bin\Debug\net5.0\EX24.deps.json
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\bin\Debug\net5.0\EX24.runtimeconfig.json
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\bin\Debug\net5.0\EX24.runtimeconfig.dev.json
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\bin\Debug\net5.0\EX24.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\bin\Debug\net5.0\ref\EX24.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\bin\Debug\net5.0\EX24.pdb
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\obj\Debug\net5.0\EX24.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\obj\Debug\net5.0\EX24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\obj\Debug\net5.0\EX24.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\obj\Debug\net5.0\EX24.AssemblyInfo.cs
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\obj\Debug\net5.0\EX24.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\obj\Debug\net5.0\EX24.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\obj\Debug\net5.0\ref\EX24.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\obj\Debug\net5.0\EX24.pdb
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX24\obj\Debug\net5.0\EX24.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\bin\Debug\net5.0\EX23.exe
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\bin\Debug\net5.0\EX23.deps.json
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\bin\Debug\net5.0\EX23.runtimeconfig.json
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\bin\Debug\net5.0\EX23.runtimeconfig.dev.json
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\bin\Debug\net5.0\EX23.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\bin\Debug\net5.0\ref\EX23.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\bin\Debug\net5.0\EX23.pdb
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\obj\Debug\net5.0\EX23.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\obj\Debug\net5.0\EX23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\obj\Debug\net5.0\EX23.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\obj\Debug\net5.0\EX23.AssemblyInfo.cs
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\obj\Debug\net5.0\EX23.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\obj\Debug\net5.0\EX23.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\obj\Debug\net5.0\ref\EX23.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\obj\Debug\net5.0\EX23.pdb
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX23\obj\Debug\net5.0\EX23.genruntimeconfig.cache
