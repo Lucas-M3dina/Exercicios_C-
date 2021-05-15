@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\bin\Debug\net5.0\EX26.exe
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\bin\Debug\net5.0\EX26.deps.json
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\bin\Debug\net5.0\EX26.runtimeconfig.json
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\bin\Debug\net5.0\EX26.runtimeconfig.dev.json
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\bin\Debug\net5.0\EX26.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\bin\Debug\net5.0\ref\EX26.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\bin\Debug\net5.0\EX26.pdb
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\obj\Debug\net5.0\EX26.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\obj\Debug\net5.0\EX26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\obj\Debug\net5.0\EX26.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\obj\Debug\net5.0\EX26.AssemblyInfo.cs
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\obj\Debug\net5.0\EX26.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\obj\Debug\net5.0\EX26.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\obj\Debug\net5.0\ref\EX26.dll
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\obj\Debug\net5.0\EX26.pdb
+C:\Users\User\Desktop\GIT\Exercicios_C#\EX26\obj\Debug\net5.0\EX26.genruntimeconfig.cache
