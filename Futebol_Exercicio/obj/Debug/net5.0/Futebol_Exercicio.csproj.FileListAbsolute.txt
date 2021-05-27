@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\bin\Debug\net5.0\Futebol_Exercicio.exe
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\bin\Debug\net5.0\Futebol_Exercicio.deps.json
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\bin\Debug\net5.0\Futebol_Exercicio.runtimeconfig.json
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\bin\Debug\net5.0\Futebol_Exercicio.runtimeconfig.dev.json
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\bin\Debug\net5.0\Futebol_Exercicio.dll
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\bin\Debug\net5.0\ref\Futebol_Exercicio.dll
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\bin\Debug\net5.0\Futebol_Exercicio.pdb
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\obj\Debug\net5.0\Futebol_Exercicio.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\obj\Debug\net5.0\Futebol_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\obj\Debug\net5.0\Futebol_Exercicio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\obj\Debug\net5.0\Futebol_Exercicio.AssemblyInfo.cs
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\obj\Debug\net5.0\Futebol_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\obj\Debug\net5.0\Futebol_Exercicio.dll
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\obj\Debug\net5.0\ref\Futebol_Exercicio.dll
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\obj\Debug\net5.0\Futebol_Exercicio.pdb
+C:\Users\User\Desktop\GIT\Futebol_Exercicio\obj\Debug\net5.0\Futebol_Exercicio.genruntimeconfig.cache

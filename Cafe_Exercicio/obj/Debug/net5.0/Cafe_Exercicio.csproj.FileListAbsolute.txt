@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\bin\Debug\net5.0\Cafe_Exercicio.exe
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\bin\Debug\net5.0\Cafe_Exercicio.deps.json
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\bin\Debug\net5.0\Cafe_Exercicio.runtimeconfig.json
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\bin\Debug\net5.0\Cafe_Exercicio.runtimeconfig.dev.json
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\bin\Debug\net5.0\Cafe_Exercicio.dll
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\bin\Debug\net5.0\ref\Cafe_Exercicio.dll
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\bin\Debug\net5.0\Cafe_Exercicio.pdb
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\obj\Debug\net5.0\Cafe_Exercicio.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\obj\Debug\net5.0\Cafe_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\obj\Debug\net5.0\Cafe_Exercicio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\obj\Debug\net5.0\Cafe_Exercicio.AssemblyInfo.cs
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\obj\Debug\net5.0\Cafe_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\obj\Debug\net5.0\Cafe_Exercicio.dll
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\obj\Debug\net5.0\ref\Cafe_Exercicio.dll
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\obj\Debug\net5.0\Cafe_Exercicio.pdb
+C:\Users\User\Desktop\GIT\Cafe_Exercicio\obj\Debug\net5.0\Cafe_Exercicio.genruntimeconfig.cache

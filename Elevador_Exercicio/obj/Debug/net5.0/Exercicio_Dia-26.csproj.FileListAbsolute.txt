@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\obj\Debug\net5.0\Exercicio_Dia-26.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\obj\Debug\net5.0\Exercicio_Dia-26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\obj\Debug\net5.0\Exercicio_Dia-26.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\obj\Debug\net5.0\Exercicio_Dia-26.AssemblyInfo.cs
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\obj\Debug\net5.0\Exercicio_Dia-26.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\bin\Debug\net5.0\Exercicio_Dia-26.exe
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\bin\Debug\net5.0\Exercicio_Dia-26.deps.json
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\bin\Debug\net5.0\Exercicio_Dia-26.runtimeconfig.json
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\bin\Debug\net5.0\Exercicio_Dia-26.runtimeconfig.dev.json
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\bin\Debug\net5.0\Exercicio_Dia-26.dll
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\bin\Debug\net5.0\ref\Exercicio_Dia-26.dll
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\bin\Debug\net5.0\Exercicio_Dia-26.pdb
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\obj\Debug\net5.0\Exercicio_Dia-26.dll
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\obj\Debug\net5.0\ref\Exercicio_Dia-26.dll
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\obj\Debug\net5.0\Exercicio_Dia-26.pdb
+C:\Users\User\Desktop\GIT\Exercicio_Dia-26\obj\Debug\net5.0\Exercicio_Dia-26.genruntimeconfig.cache
